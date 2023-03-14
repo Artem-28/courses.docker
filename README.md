@@ -16,4 +16,4 @@
 
 9. затем выполнить sudo docker-compose up
 
-7. зайти в контейнер backend sudo docker exec -it courses_backend bash b выполнить команды: composer-install && php artisan migrate && php artisan db:seed
+10. зайти в контейнер backend sudo docker exec -it courses_backend bash b выполнить команды: composer-install && php artisan migrate && php artisan db:seed
